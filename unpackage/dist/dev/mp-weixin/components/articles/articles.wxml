@@ -1,0 +1,1 @@
+<view><uni-card wx:for="{{a}}" wx:for-item="item" u-s="{{['d']}}" bindclick="{{item.b}}" u-i="{{item.c}}" bind:__l="__l" u-p="{{item.d}}"><text class="uni-body">{{item.a}}</text></uni-card></view>

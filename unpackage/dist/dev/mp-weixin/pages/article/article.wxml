@@ -1,0 +1,1 @@
+<view><uni-section wx:if="{{a}}" u-s="{{['d']}}" style="height:620px" u-i="73befeb8-0" bind:__l="__l" u-p="{{d}}"><uni-card wx:if="{{c}}" u-s="{{['d']}}" u-i="73befeb8-1,73befeb8-0" bind:__l="__l" u-p="{{c}}"><text class="uni-body">{{b}}</text></uni-card></uni-section></view>
