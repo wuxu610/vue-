@@ -1,6 +1,6 @@
 {
     "name" : "uniapp",
-    "appid" : "__UNI__BBA6A92",
+    "appid" : "__UNI__78947F2",
     "description" : "",
     "versionName" : "1.0.0",
     "versionCode" : "100",
@@ -102,7 +102,7 @@
         "title" : "test",
         "router" : {
             "mode" : "hash",
-            "base" : "./"
+            "base" : "vue-"
         },
         "publicPath" : "./",
         "domain" : "http://www.baidu.cn"
